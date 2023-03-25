@@ -1,0 +1,9 @@
+stop sign 12 119 25 134
+fire hydrant 21 166 28 185
+car 261 149 282 168
+car 202 146 268 201
+traffic light 233 1 250 18
+traffic light 307 1 323 22
+person 303 147 309 165
+person 428 137 452 193
+handbag 444 164 460 181

@@ -1,0 +1,9 @@
+fire hydrant 149 159 153 168
+traffic light 233 88 239 104
+traffic light 262 88 268 105
+person 304 148 314 172
+handbag 312 159 317 167
+bicycle 343 156 354 171
+car 252 152 264 165
+car 197 147 261 199
+bicycle 195 153 203 162

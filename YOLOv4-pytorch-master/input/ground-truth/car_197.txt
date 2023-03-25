@@ -1,0 +1,9 @@
+bicycle 459 164 479 198
+person 363 148 380 185
+handbag 376 167 387 178
+car 255 155 272 172
+car 196 150 262 206
+fire hydrant 86 167 92 182
+stop sign 68 135 75 144
+traffic light 231 44 241 70
+traffic light 280 45 290 71

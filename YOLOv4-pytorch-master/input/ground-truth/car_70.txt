@@ -1,0 +1,8 @@
+bicycle 23 165 61 233
+person 24 126 65 203
+bicycle 92 165 127 236
+person 96 128 136 211
+person 449 129 460 159
+bicycle 276 157 298 171
+fire hydrant 269 161 275 173
+car 452 148 479 187

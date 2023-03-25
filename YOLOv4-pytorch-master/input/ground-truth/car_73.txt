@@ -1,0 +1,5 @@
+bicycle 369 157 418 193
+person 245 151 250 164
+person 249 151 255 165
+person 256 151 259 165
+fire hydrant 355 166 366 193

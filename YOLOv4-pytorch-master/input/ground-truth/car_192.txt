@@ -1,0 +1,12 @@
+traffic light 169 80 176 97
+traffic light 198 81 205 96
+traffic light 226 111 229 119
+traffic light 242 111 247 119
+traffic light 450 130 465 149
+car 383 144 480 261
+car 193 143 252 193
+person 263 148 269 161
+handbag 268 154 272 160
+person 20 138 43 195
+person 5 131 28 207
+handbag 29 154 43 170
