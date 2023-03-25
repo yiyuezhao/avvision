@@ -1,0 +1,12 @@
+person
+handbag
+umbrella
+backpack
+car
+fire hydrant
+bicycle
+stop sign
+bottle
+traffic light
+truck
+bus
