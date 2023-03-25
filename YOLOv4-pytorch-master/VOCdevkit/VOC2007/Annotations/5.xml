@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eye2</folder>
+	<filename>5.jpg</filename>
+	<path>G:\验证实验\3VS8\眼动数据\1126\bwh8\eye2\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1244</xmin>
+			<ymin>296</ymin>
+			<xmax>1416</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
